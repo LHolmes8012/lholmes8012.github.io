@@ -1,0 +1,18 @@
+<hr>
+<table>
+   <tr>
+   <th>Favorite Thing</th>
+   <th>Rating</th>
+   </tr>
+   <tr>
+   <td>Packers</td>
+   <td>11/10</td>
+   </tr>
+   <tr>
+   <td>Bunnies</td>
+   <td>10/10</td>
+   <tr>
+   <td>Game of Thrones</td>
+   <td>9.5/10</td>
+   </tr>
+</table>
