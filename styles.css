@@ -1,0 +1,14 @@
+/* Your CSS code goes in this file. */
+
+body { font-family: "Arial";
+        width: 960px;
+        margin: 20px auto; }
+
+
+.border { border-width: 25px; border-color: DarkSlateBlue; border-style: solid; }
+
+h1 {color: DarkSlateBlue;
+      font-family: "Papyrus"}
+
+h2 {color: DarkSlateBlue;
+      font-family: "Papyrus"}
