@@ -1,14 +1,36 @@
 /* Your CSS code goes in this file. */
 
 body { font-family: "Arial";
-        width: 960px;
-        margin: 20px auto; }
-
-
-.border { border-width: 25px; border-color: DarkSlateBlue; border-style: solid; }
+    font-size: 16px;
+    width: 960px;
+    margin: 20px auto;  }
 
 h1 {color: DarkSlateBlue;
       font-family: "Papyrus"}
 
 h2 {color: DarkSlateBlue;
       font-family: "Papyrus"}
+
+td {border-top: 1px solid black;
+      padding: 15px }
+
+th {text-align: left;
+      padding: 5px }
+
+table {width: 75%;}
+
+.coverimage { width: 500px;
+        height: 300px;
+        border: solid 20px DarkSlateBlue }
+
+.mystery { width: 500px;
+        height: 300px;
+        border-bottom: solid 5px DarkSlateBlue}
+
+.nav { width: 200px;
+    padding-right: 20px;
+    float: right;
+    font-style: italic;
+    color: blue;
+    list-style-type: none;
+    line-height: 150%}
