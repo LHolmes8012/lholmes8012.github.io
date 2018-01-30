@@ -1,15 +1,17 @@
-/* Your CSS code goes in this file. */
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url("chard_42.jpg");
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: DarkSlateBlue;
+    text-align: left;
+    font-family: 'Delius', cursive;}
 
-body { font-family: "Arial";
-    font-size: 16px;
-    width: 960px;
-    margin: 20px auto;  }
-
-h1 {color: DarkSlateBlue;
-      font-family: "Papyrus"}
-
-h2 {color: DarkSlateBlue;
-      font-family: "Papyrus"}
+.nav {
+    background-color: DarkSlateBlue;
+    color: white;
+}
 
 td {border-top: 1px solid black;
       padding: 15px }
@@ -19,18 +21,11 @@ th {text-align: left;
 
 table {width: 75%;}
 
-.coverimage { width: 500px;
-        height: 300px;
-        border: solid 20px DarkSlateBlue }
-
 .mystery { width: 500px;
         height: 300px;
         border-bottom: solid 5px DarkSlateBlue}
 
-.nav { width: 200px;
-    padding-right: 20px;
-    float: right;
-    font-style: italic;
-    color: blue;
-    list-style-type: none;
-    line-height: 150%}
+.frontpage {padding-left: 50px}
+
+.heading {color: DarkSlateBlue;
+        font-family: 'Delius', cursive; }
